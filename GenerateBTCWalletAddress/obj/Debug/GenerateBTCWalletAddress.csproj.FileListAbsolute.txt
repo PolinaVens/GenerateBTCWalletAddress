@@ -1,0 +1,7 @@
+C:\Users\rello\source\repos\GenerateBTCWalletAddress\GenerateBTCWalletAddress\bin\Debug\GenerateBTCWalletAddress.exe.config
+C:\Users\rello\source\repos\GenerateBTCWalletAddress\GenerateBTCWalletAddress\bin\Debug\GenerateBTCWalletAddress.exe
+C:\Users\rello\source\repos\GenerateBTCWalletAddress\GenerateBTCWalletAddress\bin\Debug\GenerateBTCWalletAddress.pdb
+C:\Users\rello\source\repos\GenerateBTCWalletAddress\GenerateBTCWalletAddress\obj\Debug\GenerateBTCWalletAddress.csprojAssemblyReference.cache
+C:\Users\rello\source\repos\GenerateBTCWalletAddress\GenerateBTCWalletAddress\obj\Debug\GenerateBTCWalletAddress.csproj.CoreCompileInputs.cache
+C:\Users\rello\source\repos\GenerateBTCWalletAddress\GenerateBTCWalletAddress\obj\Debug\GenerateBTCWalletAddress.exe
+C:\Users\rello\source\repos\GenerateBTCWalletAddress\GenerateBTCWalletAddress\obj\Debug\GenerateBTCWalletAddress.pdb
